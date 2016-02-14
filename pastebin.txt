@@ -1,0 +1,25 @@
+      
+      <div class="row work" id="code">
+        <hr>
+        <div class="large-12 columns">
+          <h4>Code</h4>
+          <p>Click on each image to view my work!</p>
+
+          <ul class="clearing-thumbs small-block-grid-1 medium-block-grid-2 large-block-grid-4" data-clearing>
+            <li>
+              <a href="http://placehold.it/550x300">
+              <img data-caption="caption here" src="http://placehold.it/550x300"></a>
+            </li>
+            <li>
+              <a href="http://placehold.it/550x300"><img data-caption="caption 2 here..." src="http://placehold.it/550x300"></a>
+            </li>
+            <li>
+              <a href="http://placehold.it/550x300"><img data-caption="caption 3 here..." src="http://placehold.it/550x300"></a>
+            </li>
+            <li>
+              <a href="http://placehold.it/550x300"><img data-caption="caption 4 here..." src="http://placehold.it/550x300"></a>
+            </li>
+          </ul>
+          <p>A full list of publications can be found on <a href="http://adsabs.harvard.edu/cgi-bin/nph-ref_query?bibcode=2014MNRAS.444.2960D&amp;refs=CITATIONS&amp;db_key=AST">ADS</a></p>
+        </div>
+      </div>
