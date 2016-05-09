@@ -1,74 +1,221 @@
-<!doctype html>
-<html class="no-js" lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Kenneth J Duncan | Welcome</title>
-    <link rel="stylesheet" href="css/foundation.css" />
-    <link href='http://fonts.googleapis.com/css?family=Roboto:300,100,100italic,300italic|Roboto+Slab:400,100' rel='stylesheet' type='text/css'>
-    <script src="js/vendor/modernizr.js"></script>
-    <script type="text/javascript" src="js/MathJax.js?config=TeX-AMS-MML_HTMLorMML_b"></script>
-  </head>
-  <body>
-       
-      <style type="text/css">body{font-family:'Roboto',Helvetica,Arial,sans-serif;font-weight:300;background-color:rgba(0,0,0,0.02);}.button{font-family:'Roboto',Helvetica,Arial,sans-serif;}.button-group li{padding-top:3%;}.button-group a{color:rgba(0,0,0,1);background-color:transparent;}.button-group a:hover{color:rgba(0,0,0,0.4);background-color:transparent;}.button-group{float:none;}@media only screen and (min-width: 40.063em) {.button-group{float:right;}}.namelogo{padding:20px 10px 0px 10px;}@media only screen and (min-width: 40.063em) {.namelogo{padding-bottom:20px;}}.namelogo h1{font-size:1.5em;font-weight:100;text-align:center;}@media only screen and (min-width: 40.063em) {.namelogo h1{font-size:16px;text-align:left;}}@media only screen and (min-width: 64.063em) {.namelogo h1{font-size:24px;text-align:left;}}.hero{background:url(img/jcmt.jpg);background-size:cover;box-shadow:inset 0px 0px 0 2000px rgba(0,0,0,0.15);height:80%;}.intro-text{padding-top:40%;color:rgba(255,255,255,1);text-align:center;}@media only screen and (min-width: 40.063em) {.intro-text{padding-top:25%;}}@media only screen and (min-width: 64.063em) {.intro-text{padding-top:18%;}}.intro-text p{font-family:'Roboto',Helvetica;font-weight:100;font-size:54px;}.about,.work,.contact{padding:50px 0 0 0;}.about img{width:250px;height:250px;border-radius:150px;-webkit-border-radius:150px;-moz-border-radius:150px;}.work img:hover{opacity:0.5;-webkit-transition:0.3s ease;-moz-transition:0.3s ease;-ms-transition:0.3s ease;-o-transition:0.3s ease;transition:0.3s ease;}.work li{height:140px;overflow:hidden;}hr{border:0;height:1px;background-image:-webkit-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.75),rgba(0,0,0,0));background-image:-moz-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.75),rgba(0,0,0,0));background-image:-ms-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.75),rgba(0,0,0,0));background-image:-o-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.75),rgba(0,0,0,0));opacity:0.8;}footer{padding:80px 0 10px 0;}footer a:hover{color:rgba(0,0,0,0.4);background-color:transparent;}</style>
+<!DOCTYPE html>
+<html lang="en">
 
-       
-      <div class="row">
-        <div class="small-12 medium-4 large-4 columns namelogo">
-          <h1>Kenneth Duncan</h1>
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Personal research page for Kenneth Duncan">
+    <meta name="author" content="Kenneth Duncan">
+
+    <title>Kenneth Duncan - Observational Astronomer</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/grayscale.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,300,100,700,700italic,500italic,400italic,300italic,100italic' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">
+                    <i class="fa fa-space-shuttle"></i>  <span class="light">Kenneth</span> Duncan
+                </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">About</a>
+                    </li>
+
+                    <li>
+                        <a class="page-scroll" href="#publications">Publications</a>
+                    </li>
+
+                    <li>
+                        <a class="page-scroll" href="#code">Code</a>
+                    </li>
+                    
+                    <li>
+                        <a class="page-scroll" href="#data">Data</a>
+                    </li>
+                    
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
         </div>
-        <div class="small-12 medium-8 large-8 columns">
-          <div class="nav-bar">
-            <ul class="button-group">
-            <li><a href="index.html" class="button">Home</a></li>
-            <li><a href="publications.html" class="button">Publications</a></li>
-            <li><a href="#about" class="button">About</a></li>
-            <!-- <li><a href="#code" class="button">Code</a></li>
-            <li><a href="#contact" class="button">Contact</a></li> -->
-            </ul>
-          </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Intro Header -->
+    <header class="intro">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h1 class="brand-heading">Kenneth Duncan</h1>
+                        <p class="intro-text">Observational Astronomer, Leiden Observatory</p>
+                        <a href="#about" class="btn btn-circle page-scroll">
+                            <i class="fa fa-angle-double-down animated"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-        
-      <div class="hero">
+    </header>
+
+    <!-- About Section -->
+    <section id="about" class="container content-section text-center">
         <div class="row">
-          <div class="large-12 columns intro-text">
-              <p>Kenneth Duncan <br> Astronomer </p>
-          </div>
-        </div>
-      </div>
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>About me</h2>
+                <p>I am an observational astronomer currently working at Leiden Observatory as part of the LOFAR surveys team. My main research interest is the study of galaxy formation and evolution in the early Universe. I also have a strong interest in the Epoch of Reionization, particularly in identifying the sources of ionizing radiation which powered it.</p>
+                <p>As part of my research, I work closely with the <a href="http://lofar.strw.leidenuniv.nl/">LOFAR Surveys</a>, <a href="http://star.herts.ac.uk/~dsmith/Dan_Smiths_Website/WEAVE-LOFAR.html">WEAVE-LOFAR</a> and <a href="http://candels.ucolick.org/">CANDELS</a> collaborations.</p> 
+                
+                <h3>Education</h3>                  
+                <p>I completed my PhD at the University of Nottingham under the supervision of Prof. Chris Concelice, where my thesis was titled 'The Growth of the First Galaxies'. Before then, I also attended the University of Durham, completing an MPhys in Physics.</p>
 
-      <div class="row about" id="about">
-        <div class="medium-6 large-8 columns">
-          <h4>About</h4>
-
+            </div>
         </div>
-        <div class="medium-6 large-4 columns">
-          <img src="img/phot1.jpg"> 
-        </div>
-      </div>
+    </section>
 
-
-      <footer class="row">
-        <div class="large-12 columns">
-        <hr>
-            
-          <div class="large-4 columns">
-            <strong>Email</strong>: <a href="#"><span class="__cf_email__" data-cfemail="bdd0d8fdd0c4cdd2cfc9dbd2d1d4d293ded2d0">[email protected]</span><script cf-hash='f9e31' type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>
-          </div>
-          <div class="large-4 columns">
-            <strong>Twitter</strong>: <a href="http://www.twitter.com/dunkenj">@dunkenj</a>
-          </div>
-          <div class="large-4 columns">
-            <strong>Phone</strong>: +31 (0) 71 527 5593
-          </div>
-        </div>
-      </footer>
-      
-       
-      <script src="js/foundation/foundation.clearing.js"></script>
     
-  </body>
+    <!-- Download Section -->
+    <section id="publications" class="content-section text-center">
+        <div class="download-section">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2>Publications</h2>
+                    <p>The full list of my refereed first- and co-authored papers can be found on ADS through the link below.</p>
+                    <a href="https://ui.adsabs.harvard.edu/#search/q=author%3A%22duncan%2C%20k%22%20year%3A2013-2016%20database%3Aastronomy%20property%3Arefereed&sort=date%20desc" class="btn btn-default btn-lg"><i class="fa fa-book"></i> Publications</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Code Section -->
+    <section id="code" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Scientific Code</h2>
+                <p>An increasing amount of my scientific code is publically available and maintained on my Github pages at <a href="https://github.com/dunkenj"><i class="fa fa-github fa-fw"></i> <span class="network-name">dunkenj</span></a>. The main code contributions of potential interest are:</p>
+
+                    <p><a href="https://github.com/dunkenj/smpy">SMpy <i class="fa fa-angle-right"></i></a> 
+                    A code for building, combining and generating synthetic photometry from composite stellar population models. Written entirely in Python, it is based on flexible python classes and currently integrates both the Bruzual & Charlot and BPASS stellar population models.</p></li>
+
+                    <p><a href="https://github.com/dunkenj/pyrus">Pyrus <i class="fa fa-angle-right"></i></a>  
+                    A Python implementation of the galaxy pair fraction method of <a href="http://arxiv.org/abs/1409.1142">López-Sanjuan et al. (2015)</a>. Written in collaboration with <a href="http://www.nottingham.ac.uk/~ppxcjm">Carl Mundy</a>, the code performs redshift PDF analysis of close galaxy pairs to identify galaxy merger fractions.</p></li>
+
+            </div>
+        </div>
+    </section>
+    
+
+    <!-- Code Section -->
+    <section id="data" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2> Published Data</h2>
+                
+                <div class="media">
+                  <div class="media-left">
+                      <a href="data/Duncan14_data.zip"><i class="fa fa-download fa-5x"></i></a>
+                  </div>
+                  <div class="media-body">
+                    <h4 class="media-heading"><a href="http://arxiv.org/abs/1408.2527">Duncan et al. (2014)</a></h4>
+                    <p>The 1/Vmax mass, luminosity and star-formation rate values presented in <a href="http://arxiv.org/abs/1408.2527">Duncan et al. (2014)</a> - the values are presented in simple ascii catalogs and assume a Chabrier IMF.</p>
+                  </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+        
+    <!-- Download Section -->
+    <section id="contact" class="content-section text-center">
+        <div class="contact-section">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2>Contact Me</h2>
+                    <p>Feel free to email me with any queries about my research, published results or code. I can also be contacted informally through Twitter or Github as linked below.</p>
+                    <p><a href="mailto:&#100;&#117;&#110;&#099;&#097;&#110;&#064;&#115;&#116;&#114;&#119;&#046;&#108;&#101;&#105;&#100;&#101;&#110;&#117;&#110;&#105;&#118;&#046;&#110;&#108;">&#100;&#117;&#110;&#099;&#097;&#110;&#064;&#115;&#116;&#114;&#119;&#046;&#108;&#101;&#105;&#100;&#101;&#110;&#117;&#110;&#105;&#118;&#046;&#110;&#108;</a>
+                    </p>
+                    <ul class="list-inline banner-social-buttons">
+                        <li>
+                            <a href="https://twitter.com/dunkenj" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/dunkenj" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                        </li>
+                        <li>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+
+    <!-- Map Section 
+    <div id="map"></div>
+    -->
+    
+    <!-- Footer -->
+    <footer>
+        <div class="container text-center">
+            <p>Copyright &copy; Kenneth Duncan 2016</p>
+            Image Credits: K Duncan and <a href="http://hubblesite.org/newscenter/">NASA/STScI</a>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="js/jquery.easing.min.js"></script>
+
+    <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/grayscale.js"></script>
+
+</body>
+
 </html>

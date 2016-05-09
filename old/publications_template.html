@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Publications</title>
+</head>
+<body>
+    <ul id="publications">
+    {% for paper in all %}
+        <li><a href="http://adsabs.harvard.edu/abs/{{ paper.bibcode }}">{{ paper.title[0].encode("utf-8") }}</a></li>
+    {% endfor %}
+    </ul>
+
+    <h1>My Webpage</h1>
+    {{ a_variable }}
+
+    {# a comment #}
+</body>
+</html>
