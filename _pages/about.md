@@ -12,13 +12,15 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an extra-galactic observational astronomer currently working at the Institute for Astronomy, University of Edinburgh, where I currently hold a Marie Sk&lstrok;odowska-Curie Research Fellowship.
+My main research interest is the early formation of galaxies and the co-evolution of black holes and galaxies at high redshifts.
+I am Deputy Science Team Lead for the [WEAVE-LOFAR](https://ingconfluence.ing.iac.es:8444/confluence//display/WEAV/WEAVE-LOFAR) spectroscopic survey and have a significant role in the [LOFAR](http://lofar.strw.leidenuniv.nl/) Surveys Key Science Project.
+In addition to these main roles, I also work with the [Herschel Extragalactic Legacy Project](http://http://hedam.lam.fr/HELP/) and [CANDELS](http://candels.ucolick.org/) collaborations.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### Education
+<p>I completed my PhD at the University of Nottingham under the supervision of Prof. Chris Concelice, where my thesis was titled 'The Growth of the First Galaxies'. Before then, I attended the University of Durham, completing an MPhys in Physics.</p>
