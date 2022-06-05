@@ -1,6 +1,6 @@
 ---
 layout: page
-title: collaborations
+title: Collaborations
 permalink: /collaborations/
 description: International collaborations in which I have scientific involvement or leadership.
 nav: true
