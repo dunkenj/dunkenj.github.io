@@ -6,7 +6,7 @@ description: International collaborations in which I have scientific involvement
 nav: true
 nav_order: 1
 display_categories: [collaborations]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
