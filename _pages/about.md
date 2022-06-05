@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://ifa.roe.ac.uk'>Institute for Astronomy</a>,  University of Edinburgh
 
