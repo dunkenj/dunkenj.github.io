@@ -7,7 +7,6 @@ importance: 2
 category: collaborations
 ---
 
-# ORCHIDSS
 The Optical, Radio Continuum and HI Deep Spectroscopic Survey (ORCHIDSS) is an [ESO Community Survey](https://www.4most.eu/cms/science/extragalactic-community-surveys/) planned for the [4MOST](https://www.4most.eu) Survey facility.
 The ORCHIDSS team consists of 33 co-investigators, with scientists spanning 4 continents and bringing together members of both the [MIGHTEE](https://www.mighteesurvey.org) and [LADUMA](http://www.laduma.uct.ac.za) collaborations.
 

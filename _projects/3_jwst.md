@@ -1,9 +1,9 @@
 ---
 layout: page
-title: WEAVE-LOFAR
-description: Deputy Science Team Lead
+title: JWST GTO and GO Programmes
+description: Co-Investigator
 img: assets/img/weave.png
-importance: 1
+importance: 3
 category: collaborations
 ---
 

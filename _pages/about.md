@@ -8,19 +8,20 @@ profile:
   align: right
   image: kduncan.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Institute for Astronomy</p>
+    <p>Royal Observatory Edinburgh, Blackford Hill</p>
+    <p>Edinburgh, EH9 3HJ</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an extra-galactic observational astronomer currently working at the Institute for Astronomy, University of Edinburgh, where I currently hold a Marie Skłodowska-Curie Research Fellowship.
-My main research interest is the early formation of galaxies and the co-evolution of black holes and galaxies at high redshifts.
-I am Deputy Science Team Lead for the [WEAVE-LOFAR](https://ingconfluence.ing.iac.es:8444/confluence//display/WEAV/WEAVE-LOFAR) spectroscopic survey and have a significant role in the [LOFAR](http://lofar.strw.leidenuniv.nl/) Surveys Key Science Project.
-In addition to these main roles, I also work with the [Herschel Extragalactic Legacy Project](http://http://hedam.lam.fr/HELP/) and [CANDELS](http://candels.ucolick.org/) collaborations.
+I am an extra-galactic observational astronomer currently working at the [Institute for Astronomy, University of Edinburgh](https://ifa.roe.ac.uk), where I currently hold a Marie Skłodowska-Curie Research Fellowship.
+My main research interest is the early formation of galaxies and the co-evolution of black holes and galaxies at high redshift, with a particular focus on the combination of next-generation radio observations with multi-wavelength photometric and spectroscopic surveys from a wide range of facilities.
+
+As part of this work, I have a leading role within a number of major observing collaborations, with further membership of a broad range of ongoing programmes across the electromagnetic spectrum. Further details can be found on my [Collaborations](https://dunkenj.github.io/collaborations/) page.
+
 
 ### Education
 <p>I completed my PhD at the University of Nottingham under the supervision of Prof. Chris Concelice, where my thesis was titled 'The Growth of the First Galaxies'. Before then, I attended the University of Durham, completing an MPhys in Physics.</p>
