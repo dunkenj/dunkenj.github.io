@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Collaborations
-permalink: /collaborations/
-description: International collaborations in which I have scientific involvement or leadership.
+title: Projects
+permalink: /projects/
+description: Current research projects and international collaborations in which I have scientific involvement or leadership.
 nav: true
 nav_order: 1
-display_categories: [collaborations]
+display_categories: [collaborations, projects]
 horizontal: false
 ---
 
