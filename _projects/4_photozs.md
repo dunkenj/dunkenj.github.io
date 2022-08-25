@@ -4,7 +4,7 @@ title: Photometric Redshifts
 description: Techniques and Data Products
 img: assets/img/weave.png
 importance: 3
-category: projects
+category: research
 ---
 
 Every project has a beautiful feature showcase page.

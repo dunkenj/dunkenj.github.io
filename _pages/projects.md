@@ -5,7 +5,7 @@ permalink: /projects/
 description: Current research projects and international collaborations in which I have scientific involvement or leadership.
 nav: true
 nav_order: 1
-display_categories: [collaborations, projects]
+display_categories: [collaborations, research]
 horizontal: false
 ---
 
