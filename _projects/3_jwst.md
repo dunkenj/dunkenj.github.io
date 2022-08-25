@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JWST GTO and GO Programmes
+title: JWST GTO/GO Programmes
 description: Co-Investigator
 img: assets/img/weave.png
 importance: 3
