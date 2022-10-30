@@ -8,9 +8,9 @@ category: projects
 ---
 
 
-## HIZRAD Public Summary
+## HIZRAD
 
-### Summary of the context and overall objectives of the project
+#### Summary of the context and overall objectives of the project
 
 It is currently believed that at the centre of every massive galaxy in the Universe, there lies a super-massive black hole (SMBH). Some of these SMBH have now been measured to have as much mass as 10 billion Suns, all squeezed into a volume similar to that of our own solar-system. When these monster SMBH grow by eating in matter that has fallen into their surroundings, they can release huge amounts of energy in the process. This makes them the most extreme and energetic objects in our Universe. While extraordinary and fascinating objects in their own right, these SMBH are also believed to play an important role in the evolution of their host galaxies, including those like our own Milky Way. So if we want to completely understand the origins of our galaxy, understanding how these monsters came to form and evolve is crucial. The goal of the HIZRAD project was to help build a complete picture of the early stages of SMBH formation - answering the questions of how, when and where the most extreme objects in our Universe were formed.
 
@@ -18,8 +18,16 @@ The project made use extensive new radio sky survey from the pan-European radio 
 
 The overall objective of the HIZRAD project was to answer the question; what was the accretion history of super-massive black holes in the early Universe? Specifically, we sought to discover news samples of the most extreme SMBH right at the very earliest stages of cosmic history and to measure how this population evolved over the early history of the Universe. We aimed to combine the LOFAR surveys with the best available complementary data from optical and infrared telescopes, including a a state-of-the-art optical survey of radio detected galaxies due to start early in the project.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ELAIS_3.png" title="LoTSS Deep Fields ELAIS-N1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Images of radio galaxies from the deep LOFAR image of ELAIS-N1, overlaid on an optical image of the sky. Credits: Cyril Tasse and the LOFAR surveys team.
+</div>
 
-### Work performed from the beginning of the project to the end of the period covered by the report and main results achieved so far
+#### Work performed from the beginning of the project to the end of the period covered by the report and main results achieved so far
 
 Modern astronomical surveys are now so sensitive that they can contain galaxies in their millions or even billions. Finding the rare and extreme SMBH we want to study is therefore like the proverbial search for the needle amongst a very large haystack. The initial phase of the HIZRAD project focused on the vital step of combining all the available information in our optical surveys to estimate the distance to each galaxy, allowing us to identify the most distant for further study. The approach we used combines multiple different methods, including state-of-the-art machine learning techniques, to produce the most accurate and reliable distance measurements possible. The first phase of the work was split into two projects, one which studied a small patch of sky with very detailed and sensitive measurements, and a second that covered almost the full sky (outside of our own Milky Way) but with more limited data available for each galaxy. These projects resulted in two published journal articles, each also producing a substantial dataset suitable for exploitation by the wider community to address a wide range of scientific objectives.
 
@@ -33,10 +41,10 @@ Finally, although the WEAVE instrument originally intended for use in this proje
     </div>
 </div>
 <div class="caption">
-    Visualization of the 24 radio-bright high-redshift quasars presented in <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv221001811G/abstract">Gloudemans et al. (2022)</a>. Each line shows the observed optical spectrum obtained during the project which confirms the source distance. 
+    Visualization of the 24 radio-bright high-redshift quasars presented in <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv221001811G/abstract">Gloudemans et al. (2022)</a>. Each line shows the observed optical spectrum obtained during the project which confirms the source distance.
 </div>
 
-### Progress beyond the state of the art, expected results until the end of the project and potential impacts
+##### Progress beyond the state of the art, expected results until the end of the project and potential impacts
 The datasets produced by this project represent progress beyond the previous state-of-the-art in a range of ways. Firstly, the techniques employed in the first phase of the project are at the forefront of the field, including the novel application of machine learning techniques to extremely large datasets. The datasets produced by this project offer distance estimates predicted to be of high quality for almost 1 billion galaxies, ranging from those in the very nearby Universe out to some of the most distant ever discovered. This dataset therefore offers one of the most extensive samples of redshifts (i.e. distance) ever produced. The datasets produced in this project have already been exploited to produce over 20 published research articles and they will continue to provide an extremely valuable resource both to the worldwide community.
 
 In the second phase of the project, the discovery and analysis of 24 radio bright active SMBH in the earliest epoch of the Universe more than doubles the sample of this type of object currently known, substantially improving on the previous state-of-the-art. Furthermore, the techniques employed demonstrate the proof of concept that can be applied to future datasets that can address a range of new scientific objectives.
