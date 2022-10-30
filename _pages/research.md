@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Research
+permalink: /research/
 description: Current research projects and international collaborations in which I have scientific involvement or leadership.
 nav: true
 nav_order: 1
-display_categories: [collaborations, research]
+display_categories: [collaborations, techniques, projects]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/research.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Photometric Redshifts
-description: Techniques and Data Products
+title: HIZRAD
+description: MSCA Project
 img: assets/img/weave.png
 importance: 3
-category: techniques
+category: projects
 ---
 
 Every project has a beautiful feature showcase page.
