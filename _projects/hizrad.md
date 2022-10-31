@@ -7,7 +7,6 @@ importance: 3
 category: projects
 ---
 
-
 ## HIZRAD
 
 #### Summary of the context and overall objectives of the project
