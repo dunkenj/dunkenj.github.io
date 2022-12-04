@@ -41,8 +41,8 @@ The combination of area and sensitivity of LoTSS with the unprecedented compleme
 ### Survey Plan
 WEAVE-LOFAR is structured as a three tiered survey following the typical "wedding cake" strategy, allowing us to efficiently sample the full range of redshift and luminosity space probed by LoTSS. 
 All targets will be selected purely on the basis of their LoTSS radio continuum flux density, $$S_{\nu, \text{144 MHz}}$$, with the three tiers currently defined as:
-- WIDE: $$S_{\nu, \text{144 MHz}} > 8\,\text{mJy}$$ - Covering $$\gtrsim 6\,500 \text{deg}^2$$ over the northern extragalactic sky (both North and South Galactic Caps). 
-- MID: $$S_{\nu, \text{144 MHz}} > 0.8\,\text{mJy}$$ - Covering $$\sim 650-850 \text{deg}^2$$, located primarily in the HETDEX North field (1200+55), the H-ATLAS NGP (1300+29) and regions of the South Galactic Cap expected to be observed by the Euclid mission.
-- DEEP, $$S_{\nu, \text{144 MHz}} > 50\,\mu\text{Jy}$$ - Covering a few 10s of $$\text{deg}^2$$ in the best areas of multi-wavelength coverage in the northern sky, including the Lockman Hole (1050+57), ELAIS-N1 (1610+54), Boötes (1430+34) and NEP (Euclid Deep Field North; 1800+66) fields.
+- __WIDE:__ $$S_{\nu, \text{144 MHz}} > 8\,\text{mJy}$$ - Covering $$\gtrsim 6\,500 \text{deg}^2$$ over the northern extragalactic sky (both North and South Galactic Caps). 
+- __MID:__ $$S_{\nu, \text{144 MHz}} > 0.8\,\text{mJy}$$ - Covering $$\sim 650-850 \text{deg}^2$$, located primarily in the HETDEX North field (1200+55), the H-ATLAS NGP (1300+29) and regions of the South Galactic Cap expected to be observed by the Euclid mission.
+- __DEEP:__ $$S_{\nu, \text{144 MHz}} > 50\,\mu\text{Jy}$$ - Covering a few of $$10\text{s\,deg}^2$$ in the best areas of multi-wavelength coverage in the northern sky, including the Lockman Hole (1050+57), ELAIS-N1 (1610+54), Boötes (1430+34) and NEP (Euclid Deep Field North; 1800+66) fields.
 
 Further details on both the scientific goals and planned observations can be found in [Smith, D et al. (2016)](https://arxiv.org/abs/1611.02706), the forthcoming WEAVE-LOFAR Survey definition paper (Smith et al., in prep.) or through emailing myself or [Dan Smith (U. Hertfordshire)](https://researchprofiles.herts.ac.uk/portal/en/persons/daniel-smith(d3a358f6-aa8e-4001-81fe-96324f942b66).html).
