@@ -19,13 +19,15 @@ The first paper based on these observations, [Duncan et al. (2023)](https://ui.a
     </div>
 </div>
 <div class="caption">
-    HST and JWST imaging of the TNJ1338-1942 radio galaxy at $z=4.1$. The new NIRCam bands reveal the full extent of the jet-aligned emission that is dominated by strong nebular emission, while also allowing tight constraints on the host galaxy and its formation history..
+    HST and JWST imaging of the TNJ1338-1942 radio galaxy at z=4.1. The new NIRCam bands reveal the full extent of the jet-aligned emission that is dominated by strong nebular emission, while also allowing tight constraints on the host galaxy and its formation history.
 </div>
 
 Future work will characterise the wider protocluster environment surrounding TNJ1338 and the role this environment is playing in the formation of its constituent galaxies.
 
+------
+
 ## PRIMER and JELS
-I am aslo co-investigator in both the Public Release Imaging for Extragalactic Research (PRIMER; PI Dunlop) and JWST Emission Line Survey (JELS; PI Best) led here at the University of Edinburgh.
+I am also co-investigator in both the Public Release Imaging for Extragalactic Research [(PRIMER; PI Dunlop)](https://primer-jwst.github.io) and JWST Emission Line Survey (JELS; PI Best) led here at the University of Edinburgh.
 
 
 
