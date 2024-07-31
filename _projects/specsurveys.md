@@ -3,7 +3,7 @@ layout: page
 title: Spectroscopic Surveys
 description: Techniques and Data Products
 img: assets/img/noirlab2203a.jpg
-importance: 3
+importance: 2
 category: techniques
 ---
 
