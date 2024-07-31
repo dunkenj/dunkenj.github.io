@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 I am an extra-galactic observational astronomer currently working at the [Institute for Astronomy, University of Edinburgh](https://ifa.roe.ac.uk), where I currently hold an STFC Ernest Rutherford Fellowship.
 My main research interest is the early formation of galaxies and the co-evolution of black holes and galaxies at high redshift, with a particular focus on the combination of next-generation radio observations with multi-wavelength photometric and spectroscopic surveys from a wide range of facilities.
 
-As part of this work, I have a leading role within a number of major observing collaborations, with further membership of a broad range of ongoing programmes across the electromagnetic spectrum. Further details can be found on my [Collaborations](https://dunkenj.github.io/collaborations/) page.
+As part of this work, I have a leading role within a number of major observing collaborations, with further membership of a broad range of ongoing programmes across the electromagnetic spectrum. Further details can be found on my [Research](https://dunkenj.github.io/research/) page.
 
 
 ### Education
