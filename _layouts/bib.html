@@ -18,7 +18,13 @@
           {{reference}}
         {%- else %}
           <!-- Title -->
-          <div class="title">{{entry.title}}</div>
+          <div class="title">
+            {%- if entry.adsurl -%}
+              <a href="{{ entry.adsurl }}">{{ entry.title }}</a>
+            {%- else -%}
+              {{ entry.title }}
+            {%- endif -%}
+          </div>
           <!-- Author -->
           <div class="author">
           {%- assign truncated_authors = entry.author_array.size > 3 -%}
@@ -111,7 +117,16 @@
 
           <!-- Journal/Book title and date -->
           {% if entry.type == "article" -%}
-            {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
+            {%- capture entrytype -%}
+              <em>{{entry.journal}}</em>
+              {%- if entry.volume -%}, <b>{{ entry.volume }}</b>{%- endif -%}
+              {%- if entry.number -%}
+                {%- if entry.volume -%}({{ entry.number }}){%- else -%}, {{ entry.number }}{%- endif -%}
+              {%- elsif entry.eid -%}
+                , {{ entry.eid }}
+              {%- endif -%}
+              {%- if entry.pages -%}, {{ entry.pages }}{%- endif -%}
+            {%- endcapture -%}
           {%- elsif entry.type == "inproceedings" -%}
             {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
           {%- else -%}
