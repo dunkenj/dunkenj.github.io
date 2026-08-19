@@ -1,3 +1,0 @@
-"Duncan":
-  - firstname: ["Kenneth", "K.", "K. J.", "Kenneth Duncan"]
-    url: https://ui.adsabs.harvard.edu/search/filter_bibstem_facet_fq_bibstem_facet=NOT&filter_bibstem_facet_fq_bibstem_facet=*%3A*&filter_bibstem_facet_fq_bibstem_facet=bibstem_facet%3A%22GeoRL%22&fq=%7B!type%3Daqp%20v%3D%24fq_bibstem_facet%7D&fq_bibstem_facet=(*%3A*%20NOT%20bibstem_facet%3A%22GeoRL%22)&p_=0&q=author%3A%22duncan%2C%20k%22%20property%3Arefereed%20collection%3Aastronomy&sort=classic_factor%20desc%2C%20bibcode%20desc
